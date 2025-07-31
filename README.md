@@ -15,11 +15,24 @@
 
 - 👨‍💻 All of my projects are available at [https://not-amarnath.vercel.app/](https://not-amarnath.vercel.app/)
 
-- 💬 Ask me about **Frontend Development**
+## 💬 Ask Me About
 
+- Frontend Development  
+- Problem Solving & DSA  
+- Debugging weird JavaScript errors  
+- Creating responsive UIs  
 - 📫 How to reach me **ghoshamarnath06@gmail.com**
 
-- ⚡ Fun fact **I debug in my dreams sometimes (true story). "One last commit" has cost me sleep more than once. Typing git push -f feels like skydiving with no parachute. I name my variables better than I name my Wi-Fi. Dark mode isn’t a preference — it’s a lifestyle. Stack Overflow is my second brain. Sometimes I write code that even future me doesn’t understand.**
+## ⚡ Fun Facts
+
+- I debug in my dreams sometimes (true story).
+- "One last commit" has cost me sleep more than once.
+- Typing `git push -f` feels like skydiving with no parachute.
+- I name my variables better than I name my Wi-Fi.
+- Dark mode isn’t a preference — it’s a lifestyle.
+- Stack Overflow is my second brain.
+- Sometimes I write code that even future me doesn’t understand.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
