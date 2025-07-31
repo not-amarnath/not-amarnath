@@ -14,6 +14,7 @@
 - 🤝 I’m looking for help with [Smart Energy Monitoring Control System](https://smart-energy-monitoring-control-sys.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://not-amarnath.vercel.app/](https://not-amarnath.vercel.app/)
+-  📫 How to reach me **ghoshamarnath06@gmail.com**
 
 ## 💬 Ask Me About
 
@@ -21,7 +22,7 @@
 - Problem Solving & DSA  
 - Debugging weird JavaScript errors  
 - Creating responsive UIs  
-- 📫 How to reach me **ghoshamarnath06@gmail.com**
+
 
 ## ⚡ Fun Facts
 
