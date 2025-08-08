@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Meditrack](https://meditrack-chi.vercel.app/)
 
-- 🤝 I’m looking for help with [Smart Energy Monitoring Control System](https://smart-energy-monitoring-control-sys.vercel.app/)
+- 🤝 I’m looking for help with [Energy-IOT](https://energy-iot.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://not-amarnath.vercel.app/](https://not-amarnath.vercel.app/)
 
