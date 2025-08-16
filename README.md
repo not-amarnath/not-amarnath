@@ -22,7 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amarnat10295456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarnat10295456" height="30" width="40" /></a>
-<a href="https:https://www.linkedin.com/in/amarnath-ghosh-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amarnath-ghosh-in/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amarnath-ghosh-in/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="Amarnath Ghosh LinkedIn" height="30" width="40" />
+</a>
+
 <a href="https://fb.com/https://www.facebook.com/hunter.amar.3914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hunter.amar.3914" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/i_amar__45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_amar__45/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ghoshamarnath06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ghoshamarnath06" height="30" width="40" /></a>
