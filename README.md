@@ -39,7 +39,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=not-amarnath&show_icons=true&locale=en&layout=compact" alt="not-amarnath" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=not-amarnath&" alt="not-amarnath" /></p>
+
+<p>
+  <img align="center" width="500px" style="padding: 20px 110px" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=not-amarnath&background=000000&stroke=ffffff&ring=fbff00&fire=fbff00&currStreakLabel=fbff00&sideLabels=fbff00&sideNums=ffffff&dates=ffffff" 
+       alt="not-amarnath" />
+</p>
 
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=not-amarnath&bg_color=000000&color=fbff00&line=f5d400&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"> </img>
 
