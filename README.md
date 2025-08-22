@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Studdy Buddy](https://study-buddy-drab.vercel.app/)
 
-- 🌱 I’m currently learning `Mongo DB`, `Express js` , `React`, `Node js`
+- 🌱 I’m currently learning `Mongo DB`, `Express js` , `React.js`, `Node js` , `Next.js`
 
 - 👯 I’m looking to collaborate on [Meditrack](https://meditrack-chi.vercel.app/)
 
