@@ -20,9 +20,7 @@
 - ⚡ Fun fact
 - **I debug in my dreams sometimes (true story).**
 - **"One last commit" has cost me sleep more than once.**
-- **Typing git push -f feels like skydiving with no parachute.**
 - **I name my variables better than I name my Wi-Fi.**
-- **Dark mode isn’t a preference , it’s a lifestyle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
