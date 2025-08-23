@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://not-amarnath.vercel.app/](https://not-amarnath.vercel.app/)
 
-- 💬 Ask me about **Web Development** , **Data Structures & Algorithms** , **Database & Management Systems** , **OOPS** 
+- 💬 Ask me about **Web Development** , **Data Structures & Algorithms** , **Database & Management Systems**
 
 - 📫 How to reach me **ghoshamarnath06@gmail.com**
 
