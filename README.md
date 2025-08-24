@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Energy-Iot](https://energy-iot.vercel.app/)
 
-- 🌱 I’m currently learning  `Express js` , `Node js` , `Next.js`
+- 🌱 I’m currently learning  `Next.js`
 
 - 👯 I’m looking to collaborate on [SheConnect](https://women-in-tech-dusky.vercel.app/)
 
