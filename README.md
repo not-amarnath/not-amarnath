@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=not-amarnath&label=Profile%20views&color=0e75b6&style=flat" alt="not-amarnath" /> </p>
 
-- 🔭 I’m currently working on [Studdy Buddy](https://study-buddy-drab.vercel.app/)
+- 🔭 I’m currently working on [Energy-Iot](https://energy-iot.vercel.app/)
 
 - 🌱 I’m currently learning  `Express js` , `Node js` , `Next.js`
 
-- 👯 I’m looking to collaborate on [Meditrack](https://meditrack-chi.vercel.app/)
+- 👯 I’m looking to collaborate on [SheConnect](https://women-in-tech-dusky.vercel.app/)
 
-- 🤝 I’m looking for help with [Energy-Iot](https://energy-iot.vercel.app/)
+- 🤝 I’m looking for help with [Study-Buddy](https://study-buddy-drab.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://not-amarnath.vercel.app/](https://not-amarnath.vercel.app/)
 
